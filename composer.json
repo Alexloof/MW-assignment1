@@ -9,5 +9,7 @@
             "email": "alex.loofet@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
 }
