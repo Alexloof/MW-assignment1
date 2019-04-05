@@ -1,0 +1,13 @@
+{
+    "name": "alex/mw-submission1",
+    "description": "assignment 1 mw",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexloof",
+            "email": "alex.loofet@gmail.com"
+        }
+    ],
+    "require": {}
+}

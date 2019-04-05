@@ -1,3 +1,12 @@
+<?php
+function debugToConsole($msg) { 
+  echo "<script>console.log(".json_encode($msg).")</script>";
+}
+
+debugToConsole("hello!")
+
+?>
+
 <!doctype html>
 <html>
     <head>
